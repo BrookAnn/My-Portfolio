@@ -1,0 +1,16 @@
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Brook's page - I build desctruction</title>
+</head>
+<body>
+    <h1>Brook Forrester</h1>
+    <img width=200 src="https://source.unsplash.com/random/" alt="Brook Forrester">
+    <P>
+        This is a oage about me.
+    </P>
+    <p>
+        This page is about my 6 month course for data analytics.
+    </p>
+    <ol>
